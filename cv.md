@@ -3,6 +3,7 @@
 My contacts: </br>
 * Discord: [id] https://discordapp.com/users/913300776078688306
 * Email: [id] birthday2712@gmail.com 
+* Telegram: [id] @DubininAnton
 
 ***About me:*** </br>
 I'm from Russia. I am learning webdev (frontend + React) myself. I have not experience commercial development and never work in IT. </br>
