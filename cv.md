@@ -1,4 +1,4 @@
-![My photo](https://github.com/DubininAnton/rsschool-cv/blob/gh-pages/myphoto.jpg) </br>
+![My photo](https://github.com/DubininAnton/rsschool-cv/blob/gh-pages/resourse/myphoto.jpg) </br>
 ***Dubinin Anton*** (42 years) </br>
 My contacts: </br>
 * Discord: [id] https://discordapp.com/users/913300776078688306
