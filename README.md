@@ -1,1 +1,1 @@
-https://dubininanton.github.io/rsschool-cv/cv
+https://dubininanton.github.io/rsschool-cv/index
